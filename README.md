@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE4bWc0eTZqbXRoaGJyYzY0bzQ1YjZpa2pzdWpwZDU0MGRubHNxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="left">Hey there 👋</h1>
 
 ###
