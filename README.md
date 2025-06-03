@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://pa1.aminoapps.com/7153/a3fcbaf31bb406a4f7c28dbee21db5cf9c3fb074r1-480-240_hq.gif"  />
+  <img height="200" src="https://images.steamusercontent.com/ugc/921430377870925876/376D79C8BA51DFC7C5BEBB9C908BEAD92A0EE0C4/?imw=512&imh=237&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"  />
 </div>
 
 ###
