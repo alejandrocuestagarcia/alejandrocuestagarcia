@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4E16AQEeeKD_-d92QA/profile-displaybackgroundimage-shrink_350_1400/B4EZcXwG9aHAAg-/0/1748450182214?e=1754524800&v=beta&t=QPejkDmbZHnP1f1RU4quL7_T6kGTm2W_pYwFGzOaD0A"  />
-</div>
-
 ###
 
 <h1 align="left">Hey there 👋</h1>
