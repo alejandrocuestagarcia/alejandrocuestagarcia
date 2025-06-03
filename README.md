@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">😔 creating bugs since 2004<br>📚 studying at UC3M<br>🤖 learning about AI<br>🎶 music is my passion</p>
+<p align="left">😔 creating bugs since 2004<br>📚 studying at UC3M<br>🤖 learning about AI<br>🎶 probably listening to music</p>
 
 ###
 
