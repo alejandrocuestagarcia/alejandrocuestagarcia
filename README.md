@@ -48,10 +48,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alejandro-cuesta-garcia" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurosouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:n.alejandro.cuesta.garcia@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurosouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
