@@ -9,10 +9,6 @@
 
 ###
 
-<p align="left">i'm Alex from Madrid 🇪🇸</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
