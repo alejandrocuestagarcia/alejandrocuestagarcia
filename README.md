@@ -1,6 +1,11 @@
 ###
 
-<h1 align="left">Hey there 👋</h1>
+<p align="center">
+  <h1 align="center">Hi, I'm <a href="https://github.com/Nachofc333">Alex<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+    
+  <img src="https://cdn.pixabay.com/photo/2023/07/18/15/02/banner-8135029_1280.png" height=""/> 
+</p>
+<hr>
 
 ###
 
