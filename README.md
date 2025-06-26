@@ -5,7 +5,6 @@
     
   <img src="https://cdn.pixabay.com/photo/2023/07/18/15/02/banner-8135029_1280.png" height=""/> 
 </p>
-<hr>
 
 ###
 
