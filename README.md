@@ -8,14 +8,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">😔 creating bugs since 2004<br>📚 studying at UC3M<br>🤖 learning about AI<br>🎶 probably listening to music</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
