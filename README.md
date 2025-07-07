@@ -44,7 +44,7 @@
   />
   <span style="display:inline-block;width:12px;"></span>
   <img
-    src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMMws7rPtchjHY5odL-gMT_qlY3ASpQPQWw&s"
     alt="sql logo"
     width="40"
   />
