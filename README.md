@@ -24,6 +24,11 @@
     alt="c logo"
     width="40"
   />
+  <img
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+  alt="C# logo"
+  width="40"
+  />
   <span style="display:inline-block;width:12px;"></span>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
