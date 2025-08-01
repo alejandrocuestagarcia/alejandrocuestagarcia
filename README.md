@@ -3,7 +3,7 @@
 <p align="center">
   <h1 align="center">Hi, I'm <a href="https://github.com/Nachofc333">Alex<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
     
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:1400/1*uZyxmY6_LIY-EgTx8_GKrQ.gif"  />
+  <img src="https://cdn.pixabay.com/photo/2023/07/18/15/02/banner-8135029_1280.png" height=""/> 
 </p>
 
 
