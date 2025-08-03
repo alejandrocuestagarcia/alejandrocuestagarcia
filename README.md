@@ -2,10 +2,9 @@
 
 <p align="center">
   <h1 align="center">Hi, I'm <a href="https://github.com/alejandrocuestagarcia">Alex<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-  <img src="https://cdn.pixabay.com/photo/2023/07/18/15/02/banner-8135029_1280.png" height=""/> 
+  <img src="https://images.unsplash.com/photo-1645834410487-4df41a3b7a49?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG50fGVufDB8fDB8fHww"/> 
+
 </p>
-
-
 
 ###
 
