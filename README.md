@@ -14,14 +14,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev)
-<span style="display:inline-block;width:12px;"></span>
-<img
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMMws7rPtchjHY5odL-gMT_qlY3ASpQPQWw&s"
-  alt="sql logo"
-  width="40"
-/>
-
+[![My Skills](https://skillicons.dev/icons?i=python,c,cs,js,html,css,mysql)](https://skillicons.dev)
 
 ###
 
@@ -36,12 +29,11 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/alejandro-cuesta-garcia" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="linkedin logo" />
+  <a href="www.linkedin.com/in/alejandro-cuesta-garcia" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <span style="display:inline-block;width:12px;"></span>
-  <a href="mailto:n.alejandro.cuesta.garcia@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="gmail logo" />
+  <a href="n.alejandro.cuesta.garcia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
