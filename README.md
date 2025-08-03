@@ -15,40 +15,7 @@
 ###
 
 <div align="left">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    alt="python logo"
-    width="40"
-  />
-  <span style="display:inline-block;width:12px;"></span>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-    alt="c logo"
-    width="40"
-  />
-  <img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-  alt="C# logo"
-  width="40"
-  />
-  <span style="display:inline-block;width:12px;"></span>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-    alt="javascript logo"
-    width="40"
-  />
-  <span style="display:inline-block;width:12px;"></span>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-    alt="html5 logo"
-    width="40"
-  />
-  <span style="display:inline-block;width:12px;"></span>
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-    alt="css3 logo"
-    width="40"
-  />
+  [![My Skills](https://skillicons.dev/icons?i=python,c,cs,js,html,css)](https://skillicons.dev)
   <span style="display:inline-block;width:12px;"></span>
   <img
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMMws7rPtchjHY5odL-gMT_qlY3ASpQPQWw&s"
@@ -65,7 +32,7 @@
 
 ###
 
-<h2 align="left">Reach me at</h2>
+<h2 align="left">Get in touch! 📬</h2>
 
 ###
 
