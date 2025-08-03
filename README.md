@@ -13,9 +13,10 @@
 <h2 align="left">I code with</h2>
 
 ###
+ 
+[![My Skills](https://skillicons.dev/icons?i=python,c,cs,js,html,css)](https://skillicons.dev)
 
 <div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=python,c,cs,js,html,css)](https://skillicons.dev)
   <span style="display:inline-block;width:12px;"></span>
   <img
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMMws7rPtchjHY5odL-gMT_qlY3ASpQPQWw&s"
